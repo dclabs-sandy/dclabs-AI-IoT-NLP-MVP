@@ -14,11 +14,11 @@ What things you need to install the software and how to install them
 ## Running the tests
 
 ### Authors
- Jason
-Mike
-Sandeep
-Rob
-Tal
+ * Jason
+ * Mike
+ * Sandeep
+ * Rob
+ * Tal
 
 ####  License
 This project is licensed under CapTech Ventures, DCLab group
